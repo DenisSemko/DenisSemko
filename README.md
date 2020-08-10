@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning C#, SQL, ASP.NET MVC
+- 🔭 I’m currently working on some ASP.NET pet projects
+
 
 <!--
 **DenisSemko/DenisSemko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
