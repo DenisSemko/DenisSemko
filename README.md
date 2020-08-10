@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning C#, SQL, ASP.NET MVC
 - 🔭 I’m currently working on some ASP.NET pet projects
-- 📫 How to reach me: denys.semko@nure.ua
 
 
 <!--
