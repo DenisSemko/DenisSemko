@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning C#, SQL, ASP.NET MVC
+- 🌱 I’m currently learning C#, SQL, ASP.NET MVC, ASP.NET Core
 - 🔭 I’m currently working on some ASP.NET pet projects
 
 
