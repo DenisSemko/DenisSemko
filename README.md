@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning C#, SQL, ASP.NET MVC, ASP.NET Core
-- 🔭 I’m currently working on some ASP.NET and Javascript pet projects
+- 🌱 I’m currently learning C#, SQL, ASP.NET MVC, ASP.NET Core, Angular, ReactJS
+- 🔭 I’m currently working on some ASP.NET Core and Javascript pet projects
 
 
 <!--
