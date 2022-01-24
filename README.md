@@ -9,7 +9,7 @@
 
 - 💬 I always develop my skills in **C#, JS, TS, SQL, ASP.NET MVC, ASP.NET Core, Angular, React**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/11LJFlhdm9RY3FNjux1yCzEHfoCZkam4F5zqvoYHJ0pc/edit?usp=sharing](https://docs.google.com/document/d/11LJFlhdm9RY3FNjux1yCzEHfoCZkam4F5zqvoYHJ0pc/edit?usp=sharing)
+- 📄 Interesting fact **Google’s first tweet was in 2009, and it was in binary. It reads, "I’m feeling lucky".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
