@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20There%20👋%20I'm%20Denis%20Semko%20👨‍💻&width=960&height=100)](https://github.com/Akshay090/svg-banners)
 
-<h3 align="center">I'm a Junior Software Engineer 💻!</h3>
+<h3 align="center">I'm a Middle Software Engineer 💻!</h3>
 <hr>
 
 - 🔭 I’m currently working on **ASP.NET Core & Angular and Microsoft Dynamics 365 projects**
