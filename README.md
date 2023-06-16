@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Middle Software Engineer 💻!</h3>
 <hr>
 
-- 🔭 I’m currently working on **.NET 6 & Angular and Microsoft Dynamics 365 projects**
+- 🔭 I’m currently working on **.NET 6 and Microsoft Dynamics 365 projects**
 
 - 🌱 I’m currently learning **React**
 
