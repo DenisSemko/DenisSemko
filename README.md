@@ -9,6 +9,8 @@
 
 - 💬 I always develop my skills in **C#, JS, TS, SQL, ASP.NET MVC, ASP.NET Core, Angular, React**
 
+- 👨‍💻 All of my projects are available at [https://denys-semko.netlify.app/](https://denys-semko.netlify.app/)
+
 - 📄 Interesting fact **Google’s first tweet was in 2009, and it was in binary. It reads, "I’m feeling lucky".**
 
 <h3 align="left">Connect with me:</h3>
