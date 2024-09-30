@@ -3,11 +3,11 @@
 <h3 align="center">I'm a Software Engineer 💻!</h3>
 <hr>
 
-- 🔭 I’m currently working on **.NET & React.js projects**
+- 🔭 I’m currently working on **.NET projects**
 
-- 🌱 I’m currently learning **React.js, Azure, Kotlin**
+- 🌱 I’m currently learning **AWS, Azure, React.js, Azure, GoLang**
 
-- 💬 I always develop my skills in **C#, JS, TS, SQL, MongoDb, ASP.NET Core, React.js**
+- 💬 I always develop my skills in **C#, SQL, MongoDb, ASP.NET Core, React.js**
 
 - 👨‍💻 In case you want to get detailed information [about me](https://denys-semko.netlify.app/)
 
