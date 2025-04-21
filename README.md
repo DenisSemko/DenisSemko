@@ -1,11 +1,11 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20There%20👋%20I'm%20Denis%20Semko%20👨‍💻&width=960&height=100)](https://github.com/Akshay090/svg-banners)
 
-<h3 align="center">I'm a Software Engineer 💻!</h3>
+<h3 align="center">I'm a Senior Software Engineer 💻!</h3>
 <hr>
 
 - 🔭 I’m currently working on **.NET projects**
 
-- 🌱 I’m currently learning **AWS, Azure, React.js, Azure, GoLang**
+- 🌱 I’m currently learning **AWS, Azure, React.js, GoLang**
 
 - 💬 I always develop my skills in **C#, SQL, MongoDb, ASP.NET Core, React.js**
 
